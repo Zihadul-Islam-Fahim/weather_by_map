@@ -20,7 +20,7 @@ PopupMenuButton<dynamic> developerInfoPopup() {
               Center(
                 child: Column(
                   children: [
-                    Image.asset('assets/web.png', width: Get.height * 0.1),
+                    Image.asset('assets/web.png', width: Get.height * 0.09),
                     const Text(
                       "Unique Feature",
                       style:
